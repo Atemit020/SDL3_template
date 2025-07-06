@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/atemit/Coding/SDL_Template/build/cmake_install.cmake",
+		"/home/atemit/Coding/SDL_Template/build/SDL/cmake_install.cmake",
+		"/home/atemit/Coding/SDL_Template/build/SDL_image/cmake_install.cmake",
+		"/home/atemit/Coding/SDL_Template/build/SDL_ttf/cmake_install.cmake",
+		"/home/atemit/Coding/SDL_Template/build/SDL_mixer/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
