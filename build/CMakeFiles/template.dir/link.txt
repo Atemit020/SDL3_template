@@ -1,1 +1,0 @@
-/usr/bin/cc -Wl,--dependency-file=CMakeFiles/template.dir/link.d CMakeFiles/template.dir/src/main.c.o -o template  -Wl,-rpath,/home/atemit/Coding/SDL_Template/build libSDL3_image.so.0.3.0 libSDL3_ttf.so.0.3.0 libSDL3_mixer.so.0.0.0 libSDL3.so.0.3.0
